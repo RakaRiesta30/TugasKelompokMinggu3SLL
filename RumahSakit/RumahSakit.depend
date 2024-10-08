@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728382526 source:d:\coding\c++\rumahsakit\main.cpp
+	"rumahsakit.h"
+
+1728380351 d:\coding\c++\rumahsakit\rumahsakit.h
+	<iostream>
+	<string>
+
+1728381258 source:d:\coding\c++\rumahsakit\rumahsakit.cpp
+	"rumahsakit.h"
+
